@@ -1,1 +1,1 @@
-# ZIP-LPCM-3-d-Visualization
+This GitHub repository is a complementary material for the paper **"A Zero-Inflated Latent Position Cluster Model" (ZIP-LPCM)** to provide the 3-dimensional interactive visualization of the synthetic networks and the real networks therein.
