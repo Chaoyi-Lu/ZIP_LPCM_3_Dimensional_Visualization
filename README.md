@@ -6,7 +6,7 @@ A supervised version of the method is also provided.
 One key aspect of the paper is that we illustrate our results on 3-dimensional latent spaces.
 We refer to the paper for more details, and we refer to another repository: [https://github.com/Chaoyi-Lu/ZIP-LPCM](https://github.com/Chaoyi-Lu/ZIP-LPCM) for the details of the coding and implementations.
 
-1. The 3-d interactive plot of the **Sampson Monks** directed real network summarized latent positions **hat_U** and summarized clustering **hat_z** shown as **Figure 8** of the paper is available at: [https://chaoyi-lu.github.io/ZIP_LPCM_3_Dimensional_Visualization/RDA_SampsonMonks_InteractivePlot.html](https://chaoyi-lu.github.io/ZIP_LPCM_3_Dimensional_Visualization/RDA_SampsonMonks_InteractivePlot.html).
+1. The 3-d interactive plot of the **Sampson Monks** directed real network summarized latent positions **hat_U** and summarized clustering **hat_z** shown as **Figure 8** of the **ZIP-LPCM** paper is available at: [https://chaoyi-lu.github.io/ZIP_LPCM_3_Dimensional_Visualization/RDA_SampsonMonks_InteractivePlot.html](https://chaoyi-lu.github.io/ZIP_LPCM_3_Dimensional_Visualization/RDA_SampsonMonks_InteractivePlot.html).
 
 2. The 3-d interactive plot of the **Windsurfers** undirected real network summarized latent positions **hat_U** and summarized clustering **hat_z** shown as **Figure 9** of the paper is available at: [https://chaoyi-lu.github.io/ZIP_LPCM_3_Dimensional_Visualization/RDA_Windsurfers_InteractivePlot.html](https://chaoyi-lu.github.io/ZIP_LPCM_3_Dimensional_Visualization/RDA_Windsurfers_InteractivePlot.html).
 
@@ -16,7 +16,7 @@ We refer to the paper for more details, and we refer to another repository: [htt
 
 5. The 3-d interactive plot of the **Summit Co-attendance Criminality** undirected real network summarized latent positions **hat_U** and summarized clustering **hat_z** shown as the 2nd row plots in **Figure 13** of the paper is available at: [https://chaoyi-lu.github.io/ZIP_LPCM_3_Dimensional_Visualization/RDA_CriminalSummit_InteractivePlot_Hat_z.html](https://chaoyi-lu.github.io/ZIP_LPCM_3_Dimensional_Visualization/RDA_CriminalSummit_InteractivePlot_Hat_z.html).
 
-6. The 3-d interactive plot of the **Simulation study 1 scenario 1** reference latent positions **U\*** and referernce clustering **z\*** shown as **Figure 1** of the **ZIP-LPCM** paper is available at: [https://chaoyi-lu.github.io/ZIP_LPCM_3_Dimensional_Visualization/SS1_Scenario1_InteractivePlot.html](https://chaoyi-lu.github.io/ZIP_LPCM_3_Dimensional_Visualization/SS1_Scenario1_InteractivePlot.html).
+6. The 3-d interactive plot of the **Simulation study 1 scenario 1** reference latent positions **U\*** and referernce clustering **z\*** shown as **Figure 1** of the paper is available at: [https://chaoyi-lu.github.io/ZIP_LPCM_3_Dimensional_Visualization/SS1_Scenario1_InteractivePlot.html](https://chaoyi-lu.github.io/ZIP_LPCM_3_Dimensional_Visualization/SS1_Scenario1_InteractivePlot.html).
 
 7. The 3-d interactive plot of the **Simulation study 1 scenario 2** reference latent positions **U\*** and referernce clustering **z\*** shown as **Figure 1** of the paper is available at: [https://chaoyi-lu.github.io/ZIP_LPCM_3_Dimensional_Visualization/SS1_Scenario2_InteractivePlot.html](https://chaoyi-lu.github.io/ZIP_LPCM_3_Dimensional_Visualization/SS1_Scenario2_InteractivePlot.html).
 
