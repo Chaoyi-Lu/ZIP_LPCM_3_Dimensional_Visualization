@@ -1,4 +1,4 @@
-This GitHub repository is a complementary material for the paper [**"A Zero-Inflated Poisson Latent Position Cluster Model" (ZIP-LPCM)**](https://arxiv.org/abs/2502.13790) to provide the 3-dimensional interactive visualization of the simulation study synthetic networks and the real networks therein. 
+This GitHub repository is a complementary material for the paper [**"A Zero-Inflated Poisson Latent Position Cluster Model" (ZIP-LPCM)**](https://arxiv.org/abs/2502.13790) to provide the **3-dimensional interactive visualization** of the simulation study synthetic networks and the real networks therein. 
 Readers can directly get access to those 3-d plots by browser (Google Chrome recommended) following the links below.
 
 The paper mainly works on the ZIP-LPCM incorporated with the **Mixture-of-Finite-Mixtures (MFM)** clustering prior.
