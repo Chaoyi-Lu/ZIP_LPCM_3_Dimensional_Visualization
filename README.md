@@ -1,10 +1,10 @@
 This GitHub repository is a complementary material for the paper [**"A Zero-Inflated Poisson Latent Position Cluster Model" (ZIP-LPCM)**](https://arxiv.org/abs/2502.13790) to provide the **3-dimensional interactive visualization** of the simulation study synthetic networks and the real networks therein. 
 Readers can directly get access to those 3-d plots by browser (Google Chrome recommended) following the links below.
 
-The paper mainly works on the ZIP-LPCM incorporated with the **Mixture-of-Finite-Mixtures (MFM)** clustering prior.
+The paper mainly works on the **ZIP-LPCM** incorporated with the **Mixture-of-Finite-Mixtures (MFM)** clustering prior.
 The inference is based on a novel **Partially Collapsed Metropolis-within-Gibbs (PCMwG)** sampler with a newly proposed **Truncated Absorb-Eject (TAE)** move embedded inside.
-A supervised version of the method is also provided.
-One key aspect of the paper is that we illustrate our results on 3-dimensional latent spaces.
+A **supervised** version of the method is also provided.
+One key aspect of the paper is that we illustrate our results on **3-dimensional latent spaces**.
 We refer to the paper for more details, and we refer to another repository: [https://github.com/Chaoyi-Lu/ZIP-LPCM](https://github.com/Chaoyi-Lu/ZIP-LPCM) for the details of the coding and implementations.
 
 1. The 3-d interactive plot of the **Sampson Monks** directed real network inferred summarized latent positions **hat_U** and inferred summarized clustering **hat_z** shown as **Figure 8** of the **ZIP-LPCM** paper is available at: [https://chaoyi-lu.github.io/ZIP_LPCM_3_Dimensional_Visualization/RDA_SampsonMonks_InteractivePlot.html](https://chaoyi-lu.github.io/ZIP_LPCM_3_Dimensional_Visualization/RDA_SampsonMonks_InteractivePlot.html).
